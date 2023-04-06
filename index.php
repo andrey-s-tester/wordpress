@@ -6,7 +6,7 @@
  * @package WordPress
  */
 
-/**OLEG2111
+/**OLEG21177
  *
  * Tells WordPress to load the WordPress theme and output it.
  *
