@@ -9,7 +9,7 @@
 /**
  * Darya Radchenko.
  * commit
- *
+ *1
  * @var bool
  */
 define( 'WP_USE_THEMES', true );
