@@ -7,7 +7,7 @@
  */
 
 /**
- * Darya Radchenko
+ * Darya Radchenko.
  * commit
  *1
  * @var bool
