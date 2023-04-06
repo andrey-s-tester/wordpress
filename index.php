@@ -7,7 +7,7 @@
  */
 
 /**
- * Darya Radchenko.
+ * Darya Radchenko
  *
  * @var bool
  */
